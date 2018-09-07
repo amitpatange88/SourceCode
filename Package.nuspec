@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SourceCode</id>
+    <version>1.0.0</version>
+    <authors>Amit Patange</authors>
+    <owners>Amit Patange</owners>
+    <licenseUrl>https://github.com/amitpatange88/SourceCode</licenseUrl>
+    <projectUrl>https://github.com/amitpatange88/SourceCode</projectUrl>
+    <iconUrl>https://png.icons8.com/nolan/2x/source-code.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SourceCode is for display console messages through lib.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>SourceCode</tags>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <file src="SourceCodeMessages\bin\Debug\SourceCodeMessages.dll" target ="lib"></file>
+  </files>
+</package>

@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2017\Projects\SourceCodeMessages\SourceCodeMessages\bin\Debug\SourceCodeMessages.dll
+c:\users\admin\documents\visual studio 2017\Projects\SourceCodeMessages\SourceCodeMessages\bin\Debug\SourceCodeMessages.pdb
+c:\users\admin\documents\visual studio 2017\Projects\SourceCodeMessages\SourceCodeMessages\obj\Debug\SourceCodeMessages.dll
+c:\users\admin\documents\visual studio 2017\Projects\SourceCodeMessages\SourceCodeMessages\obj\Debug\SourceCodeMessages.pdb
+C:\E\VS-Programs\SourceCodeMessages\SourceCodeMessages\bin\Debug\SourceCodeMessages.dll
+C:\E\VS-Programs\SourceCodeMessages\SourceCodeMessages\bin\Debug\SourceCodeMessages.pdb
+C:\E\VS-Programs\SourceCodeMessages\SourceCodeMessages\obj\Debug\SourceCodeMessages.dll
+C:\E\VS-Programs\SourceCodeMessages\SourceCodeMessages\obj\Debug\SourceCodeMessages.pdb
