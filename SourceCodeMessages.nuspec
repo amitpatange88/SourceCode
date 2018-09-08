@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SourceCode</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Amit Patange</authors>
     <owners>Amit Patange</owners>
     <licenseUrl>https://github.com/amitpatange88/SourceCode</licenseUrl>
@@ -16,6 +16,6 @@
     <dependencies></dependencies>
   </metadata>
   <files>
-    <file src="SourceCodeMessages\bin\Debug\SourceCodeMessages.dll" target ="lib"></file>
+    <file src="bin\Debug\SourceCodeMessages.dll" target ="lib"></file>
   </files>
 </package>
